@@ -20,4 +20,5 @@ javac Main.java
 java Main
 を入力、Enter
 
+aaaaaa
 ff
